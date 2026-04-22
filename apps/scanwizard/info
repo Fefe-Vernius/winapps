@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="ScanWizard 5"
+
+# Used for descriptions and window class
+FULL_NAME="ScanWizard 5"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files (x86)\ScanWizard 5\ScanWizard5.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;Scanner"
+
+# GNOME mimetypes; file types: .cdxml .cdx .chm
+#MIME_TYPES="chemical/x-cdx;application/vnd.chemdraw+xml;chemical/x-chemdraw;"
